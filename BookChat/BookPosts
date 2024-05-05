@@ -1,0 +1,19 @@
+//
+//  BookPosts.swift
+//  BookChat
+//
+//  Created by Esmeralda Arroyo on 5/2/24.
+//
+
+import UIKit
+
+class BookPosts: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+    }
+    
+
+}

@@ -1,0 +1,48 @@
+//
+//  Book.swift
+//  BookChat
+//
+//  Created by Perla Arroyo on 5/4/24.
+//
+
+import Foundation
+
+struct Book{
+    let bookTitle: String
+    let authorName: String
+    let bookImg: URL
+}
+
+// Load in Book API later
+extension Book{
+    static var mockBooks: [Book] = [
+        //Book(bookTitle: "",
+        //     authorName: "",
+        //     bookImg: URL(string:""))
+    ]
+}
+//
+//  User.swift
+//  BookChat
+//
+//  Created by Esmeralda Arroyo on 5/2/24.
+//
+
+import Foundation
+import ParseSwift
+
+struct User: ParseUser{
+    var objectId: String?
+    var createdAt: Date?
+    var updatedAt: Date?
+    var ACL: ParseACL?
+    var originalData: Data?
+
+    var username: String?
+    var email: String?
+    var emailVerified: Bool?
+    var password: String?
+    var authData: [String: [String: String]?]?
+    
+    var lastPostedDate: Date?
+}
