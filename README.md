@@ -13,19 +13,21 @@ Original App Design Project - README Template
 ## Overview
 
 ### Description
-BookSphere/BookChat has a list of a variety of books where users are able to comment and rate
-a book they have read. People who wish to share their views and thoughts on the book
-are able to comment on that book and also read other users comments.
+BookSphere/BookChat has a variety of books to choose from. Once user has selected a book they have read,
+they are able to scroll and see the books cover image, author name and book title. They are also able to view other users comments.
+If the user wishes to make their own comment, they can select the 'comment' button which will allow the 
+user to write their own comment and share with others. People who wish to share their views and thoughts 
+on the book are able to comment on that book and also read other users comments.
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
 - **Category:** Social, Entertainment
 - **Mobile:** Mobile
-- **Story:**  [What story does your app tell?]
-- **Market:** [Target audience for the app]
+- **Story:**  Shares people thoughts and opinions on a book they have read.
+- **Market:** Bookworms
 - **Habit:** It can be used daily or occasionally depending on the users time and place.
-- **Scope:** [Is it a broad or narrow app in terms of features?]
+- **Scope:** Narrow in terms of features.
 
 ## Product Spec
 
@@ -33,8 +35,11 @@ are able to comment on that book and also read other users comments.
 
 **Required Must-have Stories**
 
-* [User can [specific action, e.g., register an account]]
-* ...
+* User can create an account
+* User can log in
+* User can view a variety of books
+* User can create their own comment and share
+  
 
 **Optional Nice-to-have Stories**
 
@@ -43,13 +48,17 @@ are able to comment on that book and also read other users comments.
 
 ### 2. Screen Archetypes
 
-- [ ] [**Screen Name, e.g., Login Screen**]
-* [Required User Feature: User can log in.]
-- [ ] [**Another Screen Name**]
-* [Associated required user story]
-...
-...
-...
+- [x] [Log In Screen]
+* User can log in.
+- [x] [Sign Up Screen]
+* User can create a new account
+- [][Book List Screen]
+* User can view a variety of books and choose one.
+- [][Book Posts Screen]
+* User can view more information about the book (author, title, description).
+* User can also view other users comments they have made on that specific book.
+- [][Book Comment Screen]
+* User can create a new comment and share.
 
 ### 3. Navigation
 
