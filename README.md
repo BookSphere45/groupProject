@@ -112,33 +112,28 @@ is to let readers write their thoughts and views on a book they have read and sh
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with three milestones visible in
-this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![Screenshot (23)](https://github.com/BookSphere45/groupProject/assets/156641294/58e7b917-af3f-4ab9-b4f8-03eb41a33cc7)
+
 
 ## Issue cards
+![Screenshot (24)](https://github.com/BookSphere45/groupProject/assets/156641294/c85f9f14-5e19-4b14-9a55-f59a68305142)
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ## Issues worked on this sprint
 
-- List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your gifs are not duplicated and clearly show the change from Sprint 1 to 2.]
+![Screenshot (29)](https://github.com/BookSphere45/groupProject/assets/156641294/4b730686-3d15-42bd-a386-e1dd630741a2)
 
-<br>
 
 # Milestone 3 - Build Sprint 2 (Unit 9)
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![Screenshot (32)](https://github.com/BookSphere45/groupProject/assets/156641294/d15567ba-c75b-4a86-9a10-e76ef2b6c88a)
 
 ## Completed user stories
 
-- List the completed features from this unit
-- List any pending features / any features you decided to cut
-from the original requirements
+- Completed features
+  * Login and signup page
 
 [Add video/gif of your current application that shows build progress]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
