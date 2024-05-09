@@ -145,4 +145,7 @@ from the original requirements
 
 ## App Demo Video
 
-- Embed the YouTube/Vimeo/Loom link of your Completed Demo Day prep video
+
+https://github.com/BookSphere45/groupProject/assets/156641294/4099177a-1839-469c-a7bb-a05ac761bdcc
+
+
