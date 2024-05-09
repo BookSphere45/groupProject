@@ -135,8 +135,10 @@ is to let readers write their thoughts and views on a book they have read and sh
 - Completed features
   * Login and signup page
 
-[Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+https://github.com/BookSphere45/groupProject/assets/156641294/4b6dc70a-6a96-477e-b366-65cee4c9f77c
+
+
 
 ## App Demo Video
 
