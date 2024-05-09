@@ -13,19 +13,16 @@ Original App Design Project - README Template
 ## Overview
 
 ### Description
-BookSphere/BookChat has a variety of books to choose from. Once user has selected a book they have read,
-they are able to scroll and see the books cover image, author name and book title. They are also able to view other users comments.
-If the user wishes to make their own comment, they can select the 'comment' button which will allow the 
-user to write their own comment and share with others. People who wish to share their views and thoughts 
-on the book are able to comment on that book and also read other users comments.
+BookChat/BookSphere is a book app which lists a variety of books readers can choose from. Our mission
+is to let readers write their thoughts and views on a book they have read and share with other readers.
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
 - **Category:** Social, Entertainment
 - **Mobile:** Mobile
-- **Story:**  Shares people thoughts and opinions on a book they have read.
-- **Market:** Bookworms
+- **Story:**  Helps people share their views and thoughts on a book they enjoyed.
+- **Market:** People who enjoy reding.
 - **Habit:** It can be used daily or occasionally depending on the users time and place.
 - **Scope:** Narrow in terms of features.
 
