@@ -48,16 +48,16 @@ on the book are able to comment on that book and also read other users comments.
 
 ### 2. Screen Archetypes
 
-- [x] [Log In Screen]
+- [x] [**Log In Screen**]
 * User can log in.
-- [x] [Sign Up Screen]
+- [x] [**Sign Up Screen**]
 * User can create a new account
-- [][Book List Screen]
+- [**Book List Screen**]
 * User can view a variety of books and choose one.
-- [][Book Posts Screen]
+- [**Book Posts Screen**]
 * User can view more information about the book (author, title, description).
 * User can also view other users comments they have made on that specific book.
-- [][Book Comment Screen]
+- [**Book Comment Screen**]
 * User can create a new comment and share.
 
 ### 3. Navigation
